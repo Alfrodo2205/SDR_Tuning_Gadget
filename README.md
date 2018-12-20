@@ -4,7 +4,7 @@ This is the sourcecode for an Arduino Tuning Gadget for SDR Software.
 
 In this version, four buttons and two encoders are supported for SDRuno, but you can easily adapt the code for other software, which can be handled with shortkeys.
 
-As default the code works with US ascii characters from 1-127, I have added special routines for german keyboards (desprition is in the sketch).
+As default the code works with US ascii characters from 1-127, I have added special routines for german keyboards (description is in the sketch).
 
 By default there is output to the serial monitor via debug mode true. You can set it fo false for a live gadget.
 
