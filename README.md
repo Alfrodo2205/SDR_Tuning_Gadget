@@ -2,7 +2,9 @@
 
 This is the sourcecode for an Arduino Tuning Gadget for SDR Software.
 
-In this version, four buttons and two encoders are supported for SDRuno, but you can easily adapt the code for other software, which can be handled with shortkeys.
+The original code was by Michael Ladd - KD2OG - so if you use this code please credit to him. I also say thanks for the excellent work of Mike.
+
+In this version, modified by me, four buttons and two encoders are supported for SDRuno, but you can easily adapt the code for other software, which can be handled with shortkeys.
 
 As default the code works with US ascii characters from 1-127, I have added special routines for german keyboards (description is in the sketch).
 
